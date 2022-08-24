@@ -84,6 +84,7 @@ header{
     border: none;
     border-radius: 5px;
     padding: 19px 0px 19px 74px;
+    color: var(--text-color);
 }
 .hero-input::placeholder{
     color: var(--text-color);
